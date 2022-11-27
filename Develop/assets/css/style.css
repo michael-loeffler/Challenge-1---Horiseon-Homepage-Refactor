@@ -15,12 +15,12 @@ header {
     color: #ffffff;
 }
 
-header h1 {
+h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-header h1 .seo {
+.seo {
     color: #d9dcd6;
 }
 
@@ -46,11 +46,7 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
-.hero {
+.background {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -91,6 +87,10 @@ main {
 .services h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+p {
+    font-size: 16px;
 }
 
 aside {
