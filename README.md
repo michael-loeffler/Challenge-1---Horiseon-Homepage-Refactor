@@ -18,6 +18,15 @@ N/A
 
 This webpage features 3 hyperlinks in the navigation bar at the top-right of the page. Clicking on any of these links will bring you directly to the associated section of the page that discusses that topic. 
 
+Link to deployed application:
+
+
+
+    ```md
+    ![Screenshot of Horiseon Homepage](assets\images\Horiseon Homepage - Screenshot.PNG)
+    ```
+
+
 ## Credits
 Centre for Excellence in Universal Design: Provided the above definition of universal design
     
