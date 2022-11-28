@@ -20,10 +20,9 @@ This webpage features 3 hyperlinks in the navigation bar at the top-right of the
 
 Link to deployed application:
 
+    https://michael-loeffler.github.io/Challenge-1---Horiseon-Homepage-Refactor/
 
-
-    ![Screenshot of Horiseon Homepage](/assets\images\Horiseon Homepage - Screenshot.PNG?raw=true)
-
+![Screenshot of Horiseon Homepage](./assets/images/HoriseonHomepage-Screenshot.PNG)
 
 ## Credits
 Centre for Excellence in Universal Design: Provided the above definition of universal design
