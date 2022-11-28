@@ -22,7 +22,7 @@ Link to deployed application:
 
     https://michael-loeffler.github.io/Challenge-1---Horiseon-Homepage-Refactor/
 
-![Screenshot of Horiseon Homepage](./assets/images/HoriseonHomepage-Screenshot.PNG)
+![Screenshot of Horiseon Homepage](./assets/images/Horiseon%20Homepage%20-%20Screenshot.PNG)
 
 ## Credits
 Centre for Excellence in Universal Design: Provided the above definition of universal design
