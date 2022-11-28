@@ -22,9 +22,7 @@ Link to deployed application:
 
 
 
-    ```md
-    ![Screenshot of Horiseon Homepage](assets\images\Horiseon Homepage - Screenshot.PNG)
-    ```
+    ![Screenshot of Horiseon Homepage](/assets\images\Horiseon Homepage - Screenshot.PNG?raw=true)
 
 
 ## Credits
