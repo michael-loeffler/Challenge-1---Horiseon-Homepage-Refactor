@@ -1,3 +1,8 @@
+/*
+**************************
+Global Styles
+**************************
+*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +13,14 @@ body {
     background-color: #d9dcd6;
 }
 
+p {
+    font-size: 16px;
+}
+/*
+**************************
+Header and Nav Styles
+**************************
+*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -33,7 +46,7 @@ nav {
 }
 
 nav ul {
-    list-style-type: none;
+    list-style-type: none; /*eliminates default of bulletpoints from the unordered list*/
 }
 
 nav ul li {
@@ -42,29 +55,27 @@ nav ul li {
 }
 
 a {
-    color: #ffffff;
-    text-decoration: none;
+    color: #ffffff; /*eliminates default blue/purple font color from new/clicked anchor tags*/
+    text-decoration: none; /*eliminates default underline from anchor tags*/
 }
-
+/*
+**************************
+Background Image Styles
+**************************
+*/
 .background {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
+    background-size: cover; /*tells the image to fill the box that it is in*/
     background-position: center;
 }
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
+/*
+**************************
+Main Section Styles
+**************************
+*/
 main {
     width: 75%;
     display: inline-block;
@@ -80,7 +91,15 @@ main {
     color: #ffffff;
 }
 
-.services img {
+.float-left {
+    float: left;
+    margin-right: 25px;
+    max-height: 200px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
     max-height: 200px;
 }
 
@@ -88,11 +107,11 @@ main {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-p {
-    font-size: 16px;
-}
-
+/*
+**************************
+Sidebar Styles
+**************************
+*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -119,7 +138,11 @@ aside {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*
+**************************
+Footer Styles
+**************************
+*/
 footer {
     padding: 30px;
     clear: both;
